@@ -3,7 +3,8 @@
 ## Project Overview
 This project is a **Phonebook Management System** implemented using **Binary Search Tree (BST)** and **Linked Lists** in **Java**. The system allows users to store, search, update, and delete contacts efficiently while also managing events and appointments.
 
-The phonebook maintains **contacts** with attributes such as: - Name
+The phonebook maintains **contacts** with attributes such as: 
+- Name
 - Phone number
 - Email address
 - Address
@@ -17,17 +18,17 @@ Additionally, it supports **event scheduling**, where users can:
 - Manage scheduled events efficiently.
 
 ## Features
-**Efficient Contact Management**: Add, search, update, and delete contacts using BST.  
-**Event & Appointment Scheduling**: Assign contacts to events and track scheduled meetings.  
-**Multiple Search Criteria**: Find contacts by name, phone, email, or address.  
-**BST-based Storage**: Ensures fast searching and retrieval of contact details.  
-**Linked List Implementation**: Used for managing events associated with contacts.  
+Efficient Contact Management: Add, search, update, and delete contacts using BST.  
+Event & Appointment Scheduling: Assign contacts to events and track scheduled meetings.  
+Multiple Search Criteria: Find contacts by name, phone, email, or address.  
+BST-based Storage: Ensures fast searching and retrieval of contact details.  
+Linked List Implementation: Used for managing events associated with contacts.  
 
 ## Technologies Used
-- **Java**
-- **Binary Search Tree (BST)**
-- **Linked List**
-- **OOP Principles**
+- Java
+- Binary Search Tree (BST)
+- Linked List
+- OOP Principles
 
 ## File Structure
 - **Phonebook.java** → The main program, handles user interaction and system logic.
