@@ -31,7 +31,7 @@ Additionally, it supports **event scheduling**, where users can:
 - **OOP Principles**
 
 ## File Structure
-- **`Phonebook.java`** → The main program, handles user interaction and system logic.
+- **Phonebook.java** → The main program, handles user interaction and system logic.
 - **`BST.java`** → Implements the Binary Search Tree for storing and searching contacts.
 - **`LinkedList.java`** → Implements linked lists for managing event lists.
 - **`Contact.java`** → Defines the contact structure and properties.
