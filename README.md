@@ -24,6 +24,13 @@ Additionally, it supports **event scheduling**, where users can:
 **BST-based Storage**: Ensures fast searching and retrieval of contact details.  
 **Linked List Implementation**: Used for managing events associated with contacts.  
 
+## File Structure
+- **Phonebook.java** → The main program, handles user interaction and system logic.
+- **BST.java** → Implements the Binary Search Tree for storing and searching contacts.
+- **LinkedList.java** → Implements linked lists for managing event lists.
+- **Contact.java** → Defines the contact structure and properties.
+- **Event.java** → Defines event properties and methods.
+
 ## Technologies Used
 Java
 
@@ -32,13 +39,6 @@ Binary Search Tree (BST)
 Linked List
 
 OOP Principles
-
-## File Structure
-- **Phonebook.java** → The main program, handles user interaction and system logic.
-- **BST.java** → Implements the Binary Search Tree for storing and searching contacts.
-- **LinkedList.java** → Implements linked lists for managing event lists.
-- **Contact.java** → Defines the contact structure and properties.
-- **Event.java** → Defines event properties and methods.
 
 ## Contributors:
 Shaden Alturki
