@@ -32,10 +32,10 @@ Additionally, it supports **event scheduling**, where users can:
 
 ## File Structure
 - **Phonebook.java** → The main program, handles user interaction and system logic.
-- **`BST.java`** → Implements the Binary Search Tree for storing and searching contacts.
-- **`LinkedList.java`** → Implements linked lists for managing event lists.
-- **`Contact.java`** → Defines the contact structure and properties.
-- **`Event.java`** → Defines event properties and methods.
+- **BST.java** → Implements the Binary Search Tree for storing and searching contacts.
+- **LinkedList.java** → Implements linked lists for managing event lists.
+- **Contact.java** → Defines the contact structure and properties.
+- **Event.java** → Defines event properties and methods.
 
 ## Contributors:
 Shaden Alturki
