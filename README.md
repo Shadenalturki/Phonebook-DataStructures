@@ -4,7 +4,6 @@
 This project is a **Phonebook Management System** implemented using **Binary Search Tree (BST)** and **Linked Lists** in **Java**. The system allows users to store, search, update, and delete contacts efficiently while also managing events and appointments.
 
 The phonebook maintains **contacts** with attributes such as:
-
 • Name
 
 • Phone number
