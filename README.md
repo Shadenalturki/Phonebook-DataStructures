@@ -26,9 +26,12 @@ Additionally, it supports **event scheduling**, where users can:
 
 ## Technologies Used
 Java
+
 Binary Search Tree (BST)
- Linked List
- OOP Principles
+
+Linked List
+
+OOP Principles
 
 ## File Structure
 - **Phonebook.java** → The main program, handles user interaction and system logic.
