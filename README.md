@@ -18,11 +18,11 @@ Additionally, it supports **event scheduling**, where users can:
 - Manage scheduled events efficiently.
 
 ## Features
-✔ **Efficient Contact Management**: Add, search, update, and delete contacts using BST.  
-✔ **Event & Appointment Scheduling**: Assign contacts to events and track scheduled meetings.  
-✔ **Multiple Search Criteria**: Find contacts by name, phone, email, or address.  
-✔ **BST-based Storage**: Ensures fast searching and retrieval of contact details.  
-✔ **Linked List Implementation**: Used for managing events associated with contacts.  
+**Efficient Contact Management**: Add, search, update, and delete contacts using BST.  
+**Event & Appointment Scheduling**: Assign contacts to events and track scheduled meetings.  
+**Multiple Search Criteria**: Find contacts by name, phone, email, or address.  
+**BST-based Storage**: Ensures fast searching and retrieval of contact details.  
+**Linked List Implementation**: Used for managing events associated with contacts.  
 
 ## Technologies Used
 - **Java**
